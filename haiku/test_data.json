@@ -1,0 +1,38 @@
+{
+    "status":"ok",
+    "source":"the-economist",
+    "sortBy":"top",
+    "articles":[
+        {
+            "author":"The Economist",
+            "title":"Anti-corruption demonstrations sweep across Russia",
+            "description":"The protests show opposition leader Alexei Navalny remains a force",
+            "url":"http://www.economist.com/news/europe/21719588-protests-show-opposition-leader-alexei-navalny-remains-force-anti-corruption-demonstrations",
+            "urlToImage":"http://cdn.static-economist.com/sites/default/files/images/2017/03/articles/main/20170401_eup501.jpg",
+            "publishedAt":"2017-03-27T00:00:00Z"},
+        {
+            "author":"The Economist",
+            "title":"Hong Kong names a new leader",
+            "description":"But Carrie Lam is unlikely to heal the territory’s divisions",
+            "url":"http://www.economist.com/news/china/21719579-carrie-lam-unlikely-heal-territorys-divisions-hong-kong-names-new-leader",
+            "urlToImage":"http://cdn.static-economist.com/sites/default/files/images/2017/03/articles/main/20170401_blp902.jpg",
+            "publishedAt":"2017-03-26T00:00:00Z"},
+        {
+            "author":"The Economist",
+            "title":"Uber is facing the biggest crisis in its short history",
+            "description":"Can the ride-hailing giant stay in the fast lane?",
+            "url":"http://www.economist.com/news/business/21719509-can-ride-hailing-giant-stay-fast-lane-uber-facing-biggest-crisis-its-short",
+            "urlToImage":"http://cdn.static-economist.com/sites/default/files/images/print-edition/20170325_WBP002_0.jpg",
+            "publishedAt":"2017-03-25T00:00:00Z"},
+        {
+            "author":"The Economist","title":"The growth of industrial robots",
+            "description":"They mainly build cars and computer chips, for now",
+            "url":"http://www.economist.com/blogs/graphicdetail/2017/03/daily-chart-19",
+            "urlToImage":"http://cdn.static-economist.com/sites/default/files/20170401_WOC277_0.png","publishedAt":"2017-03-27T17:08:13Z"},{"author":"The Economist","title":"How airlines are responding to America’s laptop ban","description":"No matter how carriers spin it, new rules are bad news for business travellers",
+            "url":"http://www.economist.com/blogs/gulliver/2017/03/sugarcoating-tablet-restrictions","urlToImage":"http://cdn.static-economist.com/sites/default/files/cf_images/images-magazine/2017/04/01/BL/20170401_BLP505_facebook.jpg","publishedAt":null},{"author":"The Economist","title":"A new way to classify dinosaurs","description":"A challenge to the division between the Saurischia and the Ornithischia",
+            "url":"http://www.economist.com/news/science-and-technology/21719440-challenge-division-between-saurischia-and-ornithischia-new-way","urlToImage":"http://cdn.static-economist.com/sites/default/files/images/print-edition/20170325_STP002_0.jpg","publishedAt":"2017-03-23T15:43:56Z"},{"author":"The Economist","title":"Republicans pull their health-care bill","description":"Despite lobbying by Donald Trump, Republicans in Congress failed to repeal Obamacare",
+            "url":"http://www.economist.com/blogs/democracyinamerica/2017/03/no-deal-donald","urlToImage":"http://cdn.static-economist.com/sites/default/files/20170325_USP506.jpg","publishedAt":"2017-03-24T17:40:14Z"},{"author":"The Economist","title":"A building and a book highlight an odd symbiosis between monotheistic faiths","description":"A new theory about the Abrahamic faiths",
+            "url":"http://www.economist.com/blogs/erasmus/2017/03/muslims-christians-and-jesus","urlToImage":"http://cdn.static-economist.com/sites/default/files/20170325_BLP523.jpg","publishedAt":"2017-03-26T14:08:01Z"},{"author":"The Economist","title":"Netflix hopes for another Spanish-language hit with “Ingobernable”","description":"After the success of “Narcos”, the company increases its cross-cultural offering",
+            "url":"http://www.economist.com/blogs/prospero/2017/03/mexican-drama",
+            "urlToImage":"http://cdn.static-economist.com/sites/default/files/20170325_BKP508.jpg","publishedAt":"2017-03-24T15:16:23Z"},{"author":"The Economist","title":"Did a Dutch eurocrat call southern Europeans drunken womanisers?","description":"No, but that is what northern Europeans think",
+            "url":"http://www.economist.com/news/europe/21719561-no-what-northern-europeans-think-did-dutch-eurocrat-call-southern-europeans-drunken","urlToImage":"http://cdn.static-economist.com/sites/default/files/images/2017/03/articles/main/20170325_eup506.jpg","publishedAt":"2017-03-24T00:00:00Z"}]}
